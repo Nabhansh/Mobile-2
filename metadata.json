@@ -1,0 +1,5 @@
+{
+  "name": "TechMarket - Premium Electronics Store",
+  "description": "A fully functional e-commerce platform for buying and selling electronics with Razorpay integration, GPS location tracking, and email notifications.",
+  "requestFramePermissions": ["geolocation"]
+}
